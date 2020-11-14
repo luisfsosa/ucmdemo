@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24ab6a6b-2893-4c41-a18b-45695c08a5f4" name="Default Changelist" comment="" />
+    <list default="true" id="24ab6a6b-2893-4c41-a18b-45695c08a5f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,11 +26,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -34,10 +54,42 @@
       <option name="presentableId" value="Default" />
       <updated>1605153199421</updated>
       <workItem from="1605153202652" duration="6000" />
+      <workItem from="1605153300058" duration="33000" />
+      <workItem from="1605153684940" duration="7729000" />
     </task>
+    <task id="LOCAL-00001" summary="Version 2">
+      <created>1605154676739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605154676739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="284" y="23" key="CommitChangelistDialog2" timestamp="1605154676504">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="284" y="23" key="CommitChangelistDialog2/0.23.1440.800@0.23.1440.800" timestamp="1605154676504" />
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1605154751960">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.800@0.23.1440.800" timestamp="1605154751960" />
+    <state x="421" y="165" width="604" height="490" key="find.popup" timestamp="1605374363053">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state x="421" y="165" width="604" height="490" key="find.popup/0.23.1440.800@0.23.1440.800" timestamp="1605374363053" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1605372835713">
+      <screen x="0" y="23" width="1440" height="800" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1440.800@0.23.1440.800" timestamp="1605372835713" />
   </component>
 </project>
